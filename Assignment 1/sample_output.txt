@@ -1,0 +1,534 @@
+What would you like to do?
+
+1. Calculate an Air Quality Health Index (AQHI)
+2. Calculate AQHIs from a file
+
+X. Exit
+
+Your choice: 1
+
+Ozone level: 3.1
+Nitrogen dioxide level: 2.0
+Fine particulate matter level: 5.6
+
+AQHI is 1 (low).
+
+What would you like to do?
+
+1. Calculate an Air Quality Health Index (AQHI)
+2. Calculate AQHIs from a file
+
+X. Exit
+
+Your choice: 2
+
+Reading data from file C:/Users/rl/CISC 121/a1/data5.csv
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 9 (high).
+AQHI is 11 (very high).
+AQHI is 15 (very high).
+AQHI is 15 (very high).
+AQHI is 15 (very high).
+AQHI is 15 (very high).
+AQHI is 13 (very high).
+AQHI is 11 (very high).
+AQHI is 8 (high).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 12 (very high).
+AQHI is 12 (very high).
+AQHI is 14 (very high).
+AQHI is 13 (very high).
+AQHI is 11 (very high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 7 (high).
+AQHI is 10 (high).
+AQHI is 11 (very high).
+AQHI is 12 (very high).
+AQHI is 12 (very high).
+AQHI is 11 (very high).
+AQHI is 10 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 9 (high).
+AQHI is 10 (high).
+AQHI is 10 (high).
+AQHI is 7 (high).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 8 (high).
+AQHI is 9 (high).
+AQHI is 9 (high).
+AQHI is 9 (high).
+AQHI is 9 (high).
+AQHI is 10 (high).
+AQHI is 10 (high).
+AQHI is 9 (high).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 7 (high).
+AQHI is 9 (high).
+AQHI is 9 (high).
+AQHI is 8 (high).
+AQHI is 9 (high).
+AQHI is 12 (very high).
+AQHI is 10 (high).
+AQHI is 10 (high).
+AQHI is 7 (high).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 2 (low).
+AQHI is 1 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 4 (moderate).
+AQHI is 2 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 2 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 10 (high).
+AQHI is 9 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 8 (high).
+AQHI is 11 (very high).
+AQHI is 13 (very high).
+AQHI is 12 (very high).
+AQHI is 13 (very high).
+AQHI is 12 (very high).
+AQHI is 11 (very high).
+AQHI is 10 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 7 (high).
+AQHI is 9 (high).
+AQHI is 10 (high).
+AQHI is 11 (very high).
+AQHI is 10 (high).
+AQHI is 9 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 8 (high).
+AQHI is 10 (high).
+AQHI is 10 (high).
+AQHI is 9 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 7 (high).
+AQHI is 9 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 1 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 6 (moderate).
+AQHI is 9 (high).
+AQHI is 9 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 10 (high).
+AQHI is 10 (high).
+AQHI is 9 (high).
+AQHI is 10 (high).
+AQHI is 9 (high).
+AQHI is 8 (high).
+AQHI is 3 (low).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 9 (high).
+AQHI is 9 (high).
+AQHI is 9 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 2 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 1 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 2 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 3 (low).
+AQHI is 3 (low).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 5 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 4 (moderate).
+AQHI is 5 (moderate).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 7 (high).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 5 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 6 (moderate).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 7 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 8 (high).
+AQHI is 9 (high).
+
+What would you like to do?
+
+1. Calculate an Air Quality Health Index (AQHI)
+2. Calculate AQHIs from a file
+
+X. Exit
+
+Your choice: x
